@@ -7,3 +7,6 @@ console.log(add(10,5));
 console.log(minus(10,5));
 console.log(devide(10,5));
 console.log(multiply(10,5));
+
+
+console.log(`Hello this working....`)
